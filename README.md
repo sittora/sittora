@@ -9,4 +9,4 @@ I'm a multilingual full stack software developer with an analytical eye who is c
 - 👩🏻‍💻 My projects demo: vimeo.com/user160670441
 - 😄 Pronouns: she/her
 - 🧠 Fun fact: Love analytical psychology, existential philosophy and neuroscience.
--->
+
