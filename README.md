@@ -7,5 +7,5 @@ I'm a multilingual full stack software developer with an analytical eye who is c
 - 💼 Linkedin: https://www.linkedin.com/in/sitora-everman/
 - ✍🏻 My tech blog: https://medium.com/@sittora
 - 😄 Pronouns: she/her
-- 🧠 Fun fact: Love analytical psychology, pexistential philosophy and neuroscience.
+- 🧠 Fun fact: Love analytical psychology, existential philosophy and neuroscience.
 -->
