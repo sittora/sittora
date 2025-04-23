@@ -7,5 +7,6 @@ I'm a multilingual full stack software developer with an analytical eye who is c
 - 💼 Linkedin: https://www.linkedin.com/in/sitora-everman/
 - ✍🏻 My tech blog: https://medium.com/@sittora
 - 👩🏻‍💻 My projects demo: https://vimeo.com/user160670441 , https://www.youtube.com/watch?v=S9ty7ORjdiM
+- 🌐 Website: https://sitoraeverman.com
 - 🧠 Interests: I'm into analytical psychology, philosophy and neuroscience.
 
